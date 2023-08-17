@@ -11,7 +11,7 @@ import SwiftUI
 struct CollectionViewSwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            CustomTabView()
         }
     }
 }
